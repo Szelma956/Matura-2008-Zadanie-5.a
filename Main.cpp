@@ -40,6 +40,7 @@ int main()
         hasla << reverse(slowo) << '\n';
     }
     hasla_skr << max_slowo << '\t' << max_slowo.length() << '\n' << min_slowo << '\t' << min_slowo.length() << '\n';
+    return 0;
 }
 
 
